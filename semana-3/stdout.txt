@@ -1,0 +1,11 @@
+============================= test session starts ==============================
+platform linux -- Python 3.6.9, pytest-3.6.2, py-1.5.3, pluggy-0.6.0 -- /home/jorge.melgarejo/codenation/python-7/venv/bin/python
+cachedir: .pytest_cache
+rootdir: /home/jorge.melgarejo/codenation/python-7, inifile:
+collecting ... collected 2 items
+
+test_main.py::test_get_temperature_by_lat_lng PASSED                     [ 50%]
+test_main.py::test_get_temperature_no_lat_lng PASSED                     [100%]
+
+--- generated xml file: /home/jorge.melgarejo/codenation/python-7/output.xml ---
+=========================== 2 passed in 0.75 seconds ===========================
